@@ -1,0 +1,8 @@
+<dependencies>
+   <androidPackages>
+      <androidPackage spec="adapterName:version"/>  
+   </androidPackages>
+   <iosPods>
+      <iosPod name="adapterName" version="x.x.x">
+   </iosPods>
+</dependencies>
